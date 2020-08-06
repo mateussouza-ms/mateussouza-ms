@@ -1,16 +1,12 @@
-### Hi there 👋
+## Olá pessoal, sou o Mateus 👋
+Sou apaixonado por tecnologia e sempre estou procurando uma maneira de utilizá-la para facilitar tarefas e resolver problemas. 
+Sou um estudante de Sistemas de Informação e desenvolvedor Java e Front-end iniciante.
 
-<!--
-**mateussouza-ms/mateussouza-ms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/> <img src="http://unimedplanalto.com.br/site/img/favicon.png"> Estou trabalhando na Unimed Planalto
+<br/>💜   Buscando aprender tecnologias de desenvolvimento Front-end e Back-end
+<br/>📚   Cursando o último semestre de Sistemas de Informação
+<br/>💻   Stack que estou buscando conhecimento: ReactJS, React Native & Java
+<br/>💬   Sobre mim: Curto tecnologias e assistir filmes e aprender novas coisas.
+<br/>✉️   Para entrar em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-Mateus_Souza-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-souza-teles/)](https://www.linkedin.com/in/mateus-souza-teles/) 
+| 
+[![Hotmail Badge](https://img.shields.io/badge/-mateus__souza__teles@hotmail.com-0078D4?style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:mateus_souza_teles@hotmail.com)](mailto:mateus_souza_teles@hotmail.com)
